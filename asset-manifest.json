@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/strayfarm/static/css/main.c0bc253a.css",
-    "main.js": "/strayfarm/static/js/main.e1ca78e8.js",
+    "main.js": "/strayfarm/static/js/main.6db2b88e.js",
     "static/js/787.6dc3e799.chunk.js": "/strayfarm/static/js/787.6dc3e799.chunk.js",
     "static/media/1.jpg": "/strayfarm/static/media/1.6d7ec6c47a1a49916104.jpg",
     "static/media/2.jpg": "/strayfarm/static/media/2.9c29a164306c49724854.jpg",
@@ -9,11 +9,11 @@
     "static/media/pointer.png": "/strayfarm/static/media/pointer.467b73cd5bc9d414609f.png",
     "index.html": "/strayfarm/index.html",
     "main.c0bc253a.css.map": "/strayfarm/static/css/main.c0bc253a.css.map",
-    "main.e1ca78e8.js.map": "/strayfarm/static/js/main.e1ca78e8.js.map",
+    "main.6db2b88e.js.map": "/strayfarm/static/js/main.6db2b88e.js.map",
     "787.6dc3e799.chunk.js.map": "/strayfarm/static/js/787.6dc3e799.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0bc253a.css",
-    "static/js/main.e1ca78e8.js"
+    "static/js/main.6db2b88e.js"
   ]
 }
