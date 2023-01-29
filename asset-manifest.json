@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/strayfarm/static/css/main.33322b70.css",
-    "main.js": "/strayfarm/static/js/main.6db2b88e.js",
+    "main.css": "/strayfarm/static/css/main.3d775c78.css",
+    "main.js": "/strayfarm/static/js/main.213e11e4.js",
     "static/js/787.6dc3e799.chunk.js": "/strayfarm/static/js/787.6dc3e799.chunk.js",
     "static/media/1.jpg": "/strayfarm/static/media/1.6d7ec6c47a1a49916104.jpg",
     "static/media/2.jpg": "/strayfarm/static/media/2.9c29a164306c49724854.jpg",
     "static/media/strayfarm.png": "/strayfarm/static/media/strayfarm.06c5c187435d576f739e.png",
     "static/media/pointer.png": "/strayfarm/static/media/pointer.467b73cd5bc9d414609f.png",
     "index.html": "/strayfarm/index.html",
-    "main.33322b70.css.map": "/strayfarm/static/css/main.33322b70.css.map",
-    "main.6db2b88e.js.map": "/strayfarm/static/js/main.6db2b88e.js.map",
+    "main.3d775c78.css.map": "/strayfarm/static/css/main.3d775c78.css.map",
+    "main.213e11e4.js.map": "/strayfarm/static/js/main.213e11e4.js.map",
     "787.6dc3e799.chunk.js.map": "/strayfarm/static/js/787.6dc3e799.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33322b70.css",
-    "static/js/main.6db2b88e.js"
+    "static/css/main.3d775c78.css",
+    "static/js/main.213e11e4.js"
   ]
 }
